@@ -1,7 +1,5 @@
 $(document).ready(function () {
 
-//Global variables
-  
   var targetNumber;
   var num1;
   var num2;
@@ -10,8 +8,6 @@ $(document).ready(function () {
   var userTotal = 0;
   var wins = 0;
   var losses = 0
-
-  // Functions
 
   function reset() {
       num1 = Math.floor(Math.random() * 11 + 1);

@@ -1,23 +1,23 @@
-body {
-    background-color: darkkhaki;
-}
-
 h1 {
-    text-align: center;
-
-    background:burlywood;
+text-align: center;
+background: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
+padding-bottom: 15px;
+}
+body {
+    border-width: 45px;
+    border: black;
 }
 .img {
     width: 150px;
     height: 150px;
-    padding: 25px;
-    margin: 25px;
+    padding: 4px;
 }
 
 #crystal-main {
-    width: 650px;
-    border: 2px solid gray;
-    padding: 25px;
-    background:rgb(196, 196, 197);
-    color:rgb(46, 37, 15);
+    width: 600px;
+    border: 10px;
+    padding: 30px;
+    background: rgb(2, 2, 2);
+    color: rgb(255, 255, 255);
 }
